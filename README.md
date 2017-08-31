@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ## Introduction
+=======
+# Introduction
+>>>>>>> cdda8ca7d8fec0a86a5c5aa1e3dc1142329c4317
 Coding Progress on LeetCode with SQL.
 
 ## Problem List
