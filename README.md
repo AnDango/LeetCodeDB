@@ -1,5 +1,5 @@
-# LeetCodeSQL
-Attainments on LeetCode with SQL.
+# Introduction
+Coding Progress on LeetCode with SQL.
 
 --- 
 
