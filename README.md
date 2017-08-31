@@ -1,9 +1,7 @@
-# LeetCodeSQL
-Attainments on LeetCode with SQL.
+## Introduction
+Coding Progress on LeetCode with SQL.
 
---- 
-
-# List of Solved Problems
+## Problem List
 
 | Sequence | Title | Difficulty | 1st AC Date | Last Optimized Date |
 |:---------|:------|:-----------|:------------|:--------------------|
@@ -13,5 +11,3 @@ Attainments on LeetCode with SQL.
 | #0178 | Rank Scores | Medium | 2017.8.25 |  |
 | #0180 | Consecutive Numbers | Medium | 2017.8.28 |  |
 
-
---- 
